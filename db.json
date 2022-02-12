@@ -1,12 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "users": [
+    { "id": 1, "domainName": "MW1", "userName": "BDavis", "permissions":["RO"] },
+    { "id": 2, "domainName": "MW2", "userName": "MJackson", "permissions":["RO"] },
+    { "id": 3, "domainName": "MW1", "userName": "LHenry", "permissions":["RO"] },
+    { "id": 4, "domainName": "MW1", "userName": "SLee", "permissions":["RW"] },
+    { "id": 5, "domainName": "MW1", "userName": "RForrest", "permissions":["RW"] },
+    { "id": 6, "domainName": "MW3", "userName": "SBrowers", "permissions":["RO"] },
+    { "id": 7, "domainName": "SMW1", "userName": "TPinnock", "permissions":["RO"] },
+    { "id": 8, "domainName": "SMW2", "userName": "TKnight", "permissions":["RW"] },
+    { "id": 9, "domainName": "SMW3", "userName": "RWest", "permissions":["RO"] },
+    { "id": 10, "domainName": "SMW1", "userName": "RMahon", "permissions":["RO"] },
+    { "id": 11, "domainName": "SMW2", "userName": "EAyalla", "permissions":["RW"] },
+    { "id": 12, "domainName": "MW1", "userName": "SJones", "permissions":["RO"] },
+    { "id": 13, "domainName": "MW1", "userName": "FPastore", "permissions":["RW"] },
+    { "id": 14, "domainName": "MW2", "userName": "RWagner", "permissions":["RO"] },
+    { "id": 15, "domainName": "MW1", "userName": "TWalker", "permissions":["RO"] }
   ],
   "profile": {
     "name": "typicode"
