@@ -14,7 +14,10 @@
     { "id": 12, "domainName": "MW1", "userName": "SJones", "permissions":["RO"] },
     { "id": 13, "domainName": "MW1", "userName": "FPastore", "permissions":["RW"] },
     { "id": 14, "domainName": "MW2", "userName": "RWagner", "permissions":["RO"] },
-    { "id": 15, "domainName": "MW1", "userName": "TWalker", "permissions":["RO"] }
+    { "id": 15, "domainName": "MW1", "userName": "TWalker", "permissions":["RO"] },
+    { "id": 16, "domainName": "MW2", "userName": "SHarris", "permissions":["RO"] },
+    { "id": 17, "domainName": "MS", "userName": "hlawren9", "permissions":["RW"] },
+    { "id": 18, "domainName": "desktop-do290f8", "userName": "horace lawrence", "permissions":["RW"] }
   ],
   "profile": {
     "name": "typicode"
